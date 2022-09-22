@@ -1,0 +1,41 @@
+//let io = prompt(`сколько длина тизера?`, ``);
+//if (io>12){ 
+//    console.log(`много`);
+//}else if(io<12){
+ //   console.log(`мало`);
+//}else { 
+ //   console.log(`MMR master`)}
+
+// let io = prompt(`сколько тизер?`, ``);
+//let ioi= ( io==12) ? "да" : "нет";
+//console.log (ioi);
+
+
+// let ua=prompt(`сколько штатов?`, ``);
+// let htat=(ua==34)? "да":"нее";
+// console.log(htat)
+
+
+
+// function strit(from , text){
+//     console.log ( "from" + `:`+ text);
+// }
+// strit (" школа ",73);
+
+
+// function io(tizzer,visp){
+//     return {
+//         tizzer: "skil",
+//         visp:"namme",
+//     };
+// }
+// let hirou= io("skil","namme");
+// console.log (hirou.tizzer);
+
+// let io={name:"visp",skil:"tizer",};
+// console.log(io.skil);
+// let dota={hero:"tusk",}
+// let banha={lane:"hard"}
+
+// Object.assign(io,dota,banha);
+// console.log(io);

@@ -1,0 +1,136 @@
+body {  
+    font-size: 16px;
+    font-weight: normal;
+    font-family:cursive;
+}
+.start{
+    border-radius: 20px;
+    box-shadow: 8px 8px 18px rgba(0,0,0,25);
+}
+h1 {
+    word-spacing: 4px;
+}
+.human{
+   letter-spacing: 2px ;
+}
+a{
+  color:darkslateblue;
+  text-decoration: none;  
+}
+a:hover {
+    text-decoration: underline;
+}
+a:visited{
+    color:darkblue;
+}
+
+.card{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin:300px 15%  15%;
+    border-radius: 20px;
+}
+
+.card1{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 500px 15% 100% 15%;
+    border-radius: 20px;
+}
+.card2{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 680px 15% 100% 15%;
+    border-radius: 20px;
+}
+.card3{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 895px 15% 100% 15%;
+    border-radius: 20px;
+}
+.card4{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 1165px 15% 100% 15%;
+    border-radius: 20px;
+}
+.card5{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 1420px 15% 100% 15%;
+    border-radius: 20px;
+}
+.card6{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 1565px 15% 10px 15%;
+    border-radius: 20px;
+}
+.card7{ 
+    position:absolute;
+    color: black;
+    /* font-size: 2em; */
+    width: 700px;
+    padding: 5px 10px;
+    border: 3px solid black;
+    background-color:darkslateblue;
+    margin: 1800px 15% 10px 15%;
+    border-radius: 20px;
+}
+.box{
+    min-height: 100vh;
+    width: 100%;
+    background-color: transparent;
+    background-image: url (../html/фон.jpg);
+    /* position:relative;
+    top:0;left: 0;
+    z-index: 0;
+    margin-top: 100%;
+    padding: 20ps; */
+    /* background-image: url (../html/фон.jpg); */
+    /* background-color: transparent;
+    background-repeat : no-repeat; */
+    background-size: 100px 200pxs;
+    background-position:100% 100%;
+
+}
+/* .cards{
+    position: absolute;
+    color: black;
+} */
